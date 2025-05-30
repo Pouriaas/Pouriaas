@@ -12,7 +12,7 @@ I'm Pouria Asgari Dastjerdi, a Water Resources and Civil Engineer with a deep pa
 ## 🌱 I’m currently learning
 - Advanced deep learning techniques for geospatial data  
 - Cloud-based workflows for big Earth observation data  
-- More efficient ways to automate scientific reporting with `xlsxwriter` and Python
+- More efficient ways to automate scientific reporting with Python
 
 ## 💞️ I’m looking to collaborate on
 - Research projects involving climate change impact on water resources  
